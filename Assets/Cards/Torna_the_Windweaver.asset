@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e263cc5de0e861428d9d0c97fa68a2d, type: 3}
+  m_Name: Torna_the_Windweaver
+  m_EditorClassIdentifier: 
+  id: 2
+  cardName: Torna the Windweaver
+  artwork: {fileID: 21300000, guid: 8ee18f8f74cc71841af9a7e386cbdce3, type: 3}
+  cost: 6
+  attack: 1600
+  defense: 1000
+  cardDescription: '[Requirement] Send 1 card from your hand to the Graveyard. [Effect]
+    Change the battle position of 1 monster on your opponent''s field (Attack Position
+    becomes face-up Defense Position, Defense Position becomes face-up Attack Position).'
+  cardAttribute: 3
+  cardType: 0
+  typeDescription: '[Spellcaster/Effect]'
